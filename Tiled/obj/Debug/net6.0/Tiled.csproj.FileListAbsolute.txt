@@ -1,0 +1,12 @@
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\bin\Debug\net6.0\HttpServer.dll
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\bin\Debug\net6.0\Tiled.deps.json
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\bin\Debug\net6.0\Tiled.dll
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\bin\Debug\net6.0\Tiled.pdb
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\obj\Debug\net6.0\Tiled.csproj.AssemblyReference.cache
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\obj\Debug\net6.0\Tiled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\obj\Debug\net6.0\Tiled.csproj.CoreCompileInputs.cache
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\obj\Debug\net6.0\Tiled.sourcelink.json
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\obj\Debug\net6.0\Tiled.dll
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\obj\Debug\net6.0\refint\Tiled.dll
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\obj\Debug\net6.0\Tiled.pdb
+C:\Users\ITEL\Source\Repos\Tiled\Tiled\obj\Debug\net6.0\ref\Tiled.dll
